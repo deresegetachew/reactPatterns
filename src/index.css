@@ -1,0 +1,8 @@
+body {
+  background-image: linear-gradient(135deg, #8254ea 0%, #e86dec 100%);
+  background-color: rgba(0, 0, 0, 0);
+  background-size: auto;
+  height: 100%;
+  font-family: "Roboto";
+  color: #eaeaea;
+}

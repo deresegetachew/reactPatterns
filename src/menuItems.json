@@ -1,0 +1,59 @@
+[
+  {
+    "index": 0,
+    "link": "#",
+    "label": "Dashboard",
+    "icon": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/dash.png",
+    "isTop": true,
+    "children": [
+      { "index": 0, "label": "Reports", "link": "#" },
+      { "index": 1, "label": "Tools", "link": "#" },
+      { "index": 2, "label": "Analytics", "link": "#" }
+    ]
+  },
+  {
+    "index": 1,
+    "link": "#",
+    "label": "Sales",
+    "icon": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/del.png",
+    "isTop": true,
+    "children": [
+      { "index": 0, "label": "Sales Orders", "link": "#" },
+      { "index": 1, "label": "Sales Invoice", "link": "#" },
+      { "index": 3, "label": "Deliveries", "link": "#" },
+      { "index": 4, "label": "Sales reports", "link": "#" }
+    ]
+  },
+  {
+    "index": 2,
+    "link": "#",
+    "label": "Messages",
+    "icon": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/mess.png",
+    "isTop": true,
+    "children": [
+      { "index": 0, "label": "Inbox", "link": "#" },
+      { "index": 1, "label": "Out Box", "link": "#" },
+      { "index": 3, "label": "Sent", "link": "#" },
+      { "index": 4, "label": "Archived", "link": "#" }
+    ]
+  },
+  {
+    "index": 3,
+    "link": "#",
+    "label": "Users",
+    "icon": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/users.png",
+    "isTop": true,
+    "children": [
+      { "index": 0, "label": "New User", "link": "#" },
+      { "index": 1, "label": "Groups", "link": "#" },
+      { "index": 3, "label": "Permissions", "link": "#" },
+      { "index": 4, "label": "Passwords", "link": "#" }
+    ]
+  },
+  {
+    "link": "#",
+    "label": "Sign out",
+    "icon": "⬅️",
+    "isTop": true
+  }
+]
